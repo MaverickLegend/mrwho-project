@@ -1,0 +1,7 @@
+.Showbar {
+    display: flex;
+    height: 10%;
+    width: 100%;
+    background-color: aliceblue;
+    justify-content: center;
+}

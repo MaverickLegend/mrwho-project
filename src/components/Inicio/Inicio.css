@@ -1,0 +1,11 @@
+.body_main{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.main_inicio{
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+}

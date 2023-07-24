@@ -1,0 +1,51 @@
+.navBar_container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.navBar_name {
+    display: inherit;
+    background-color: black;
+    width: 60%;
+    height: 100%;
+    justify-content: center;
+}
+
+.navBar_name h1{
+    color: snow;
+}
+
+.navBar_img {
+    display: inherit;
+    background-color: purple;
+    width: 20%;
+    height: 100%;
+    justify-content: center;
+}
+
+.navBar_login {
+    display: inherit;
+    background-color: aliceblue;
+    width: 20%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-item{
+    background-color: #000000;
+    color: whitesmoke;
+    border-radius: 30px;
+    width: 100px;
+    height: 50px;
+    border-style: none;
+    font-size: 15px;
+}
+
+.button-item:hover {
+    background-color: aliceblue;
+    color: crimson;
+    transition: 0.5s ease-in-out;
+}
